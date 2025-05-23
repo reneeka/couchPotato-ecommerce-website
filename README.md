@@ -1,4 +1,4 @@
-# E-Commerce-Website
+# CouchPotato E-Commerce Website
 
 This project is co-owned by: [@reneeka](https://www.github.com/reneeka) [@chahelgupta](https://www.github.com/chahelgupta) [@amishidesai](https://www.github.com/AmishiDesai04) 
 
